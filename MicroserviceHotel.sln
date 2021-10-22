@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{A4367F9B-6495-42DA-B9DC-D37500B5423E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalog", "Catalog", "{53BFDFAC-1866-4DBC-8BB5-3317CD4AEBB5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{B0B2239F-7D23-4F9A-8184-CF0761F55FBD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroserviceHotel.Services.Catalog", "Services\Catalog\MicroserviceHotel.Services.Catalog\MicroserviceHotel.Services.Catalog.csproj", "{C9A64313-8783-424B-B34F-B47ADCB9990E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{22A260F8-275D-482C-AA62-2A4B58FA4CA7}"
+	ProjectSection(SolutionItems) = preProject
+		Ports.txt = Ports.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IdentityServer", "IdentityServer", "{82091ED7-A8B9-4B07-9425-DBB2181CDD07}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroserviceHotel.IdentityServer", "IdentityServer\MicroserviceHotel.IdentityServer\MicroserviceHotel.IdentityServer.csproj", "{0CBBB639-E7BE-47C2-94A6-46E81B51293E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroserviceHotel.Shared", "Shared\MicroserviceHotel.Shared\MicroserviceHotel.Shared.csproj", "{D90BF6D1-8F3F-4D77-9E2E-0380AA5C6A3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9A64313-8783-424B-B34F-B47ADCB9990E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9A64313-8783-424B-B34F-B47ADCB9990E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9A64313-8783-424B-B34F-B47ADCB9990E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9A64313-8783-424B-B34F-B47ADCB9990E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CBBB639-E7BE-47C2-94A6-46E81B51293E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CBBB639-E7BE-47C2-94A6-46E81B51293E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CBBB639-E7BE-47C2-94A6-46E81B51293E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CBBB639-E7BE-47C2-94A6-46E81B51293E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D90BF6D1-8F3F-4D77-9E2E-0380AA5C6A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D90BF6D1-8F3F-4D77-9E2E-0380AA5C6A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D90BF6D1-8F3F-4D77-9E2E-0380AA5C6A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D90BF6D1-8F3F-4D77-9E2E-0380AA5C6A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{53BFDFAC-1866-4DBC-8BB5-3317CD4AEBB5} = {A4367F9B-6495-42DA-B9DC-D37500B5423E}
+		{C9A64313-8783-424B-B34F-B47ADCB9990E} = {53BFDFAC-1866-4DBC-8BB5-3317CD4AEBB5}
+		{0CBBB639-E7BE-47C2-94A6-46E81B51293E} = {82091ED7-A8B9-4B07-9425-DBB2181CDD07}
+		{D90BF6D1-8F3F-4D77-9E2E-0380AA5C6A3C} = {B0B2239F-7D23-4F9A-8184-CF0761F55FBD}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A8CB8AB-A67C-4769-87C0-D79F5987EAE4}
+	EndGlobalSection
+EndGlobal

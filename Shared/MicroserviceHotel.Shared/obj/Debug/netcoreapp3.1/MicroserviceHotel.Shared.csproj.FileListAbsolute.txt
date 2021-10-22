@@ -1,0 +1,8 @@
+C:\Microservice Demo Project\MicroserviceHotel\Shared\MicroserviceHotel.Shared\bin\Debug\netcoreapp3.1\MicroserviceHotel.Shared.deps.json
+C:\Microservice Demo Project\MicroserviceHotel\Shared\MicroserviceHotel.Shared\bin\Debug\netcoreapp3.1\MicroserviceHotel.Shared.dll
+C:\Microservice Demo Project\MicroserviceHotel\Shared\MicroserviceHotel.Shared\bin\Debug\netcoreapp3.1\MicroserviceHotel.Shared.pdb
+C:\Microservice Demo Project\MicroserviceHotel\Shared\MicroserviceHotel.Shared\obj\Debug\netcoreapp3.1\MicroserviceHotel.Shared.AssemblyInfoInputs.cache
+C:\Microservice Demo Project\MicroserviceHotel\Shared\MicroserviceHotel.Shared\obj\Debug\netcoreapp3.1\MicroserviceHotel.Shared.AssemblyInfo.cs
+C:\Microservice Demo Project\MicroserviceHotel\Shared\MicroserviceHotel.Shared\obj\Debug\netcoreapp3.1\MicroserviceHotel.Shared.csproj.CoreCompileInputs.cache
+C:\Microservice Demo Project\MicroserviceHotel\Shared\MicroserviceHotel.Shared\obj\Debug\netcoreapp3.1\MicroserviceHotel.Shared.dll
+C:\Microservice Demo Project\MicroserviceHotel\Shared\MicroserviceHotel.Shared\obj\Debug\netcoreapp3.1\MicroserviceHotel.Shared.pdb
