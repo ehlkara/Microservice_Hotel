@@ -20,7 +20,7 @@
     "MicroserviceHotel.Services.PhotoStock": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
-      "launchBrowser": true,
+      "launchBrowser": false,
       "launchUrl": "swagger",
       "applicationUrl": "http://localhost:4012",
       "environmentVariables": {
