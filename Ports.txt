@@ -1,3 +1,4 @@
 Services
 -catalogAPI=> http://localhost:4011
--photoStockApý => http://localhost:4012
+-photoStockAPI => http://localhost:4012
+-basketAPI => http://localhost:4013

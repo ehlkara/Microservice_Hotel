@@ -24,7 +24,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroserviceHotel.Shared", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PhotoStock", "PhotoStock", "{DED1E7BF-FAD7-4178-A248-4D2FE7FC32FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroserviceHotel.Services.PhotoStock", "Services\PhotoStock\MicroserviceHotel.Services.PhotoStock\MicroserviceHotel.Services.PhotoStock.csproj", "{F27C07F6-90CF-4611-BC13-6144B6EF20D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroserviceHotel.Services.PhotoStock", "Services\PhotoStock\MicroserviceHotel.Services.PhotoStock\MicroserviceHotel.Services.PhotoStock.csproj", "{F27C07F6-90CF-4611-BC13-6144B6EF20D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basket", "Basket", "{0359EE4F-DF6D-4B5D-9170-F48C9223ADD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroserviceHotel.Services.Basket", "Services\Basket\MicroserviceHotel.Services.Basket\MicroserviceHotel.Services.Basket.csproj", "{E7A0E9AC-38F3-4C58-A1F5-692014AF373C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -48,6 +52,10 @@ Global
 		{F27C07F6-90CF-4611-BC13-6144B6EF20D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F27C07F6-90CF-4611-BC13-6144B6EF20D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F27C07F6-90CF-4611-BC13-6144B6EF20D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7A0E9AC-38F3-4C58-A1F5-692014AF373C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A0E9AC-38F3-4C58-A1F5-692014AF373C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A0E9AC-38F3-4C58-A1F5-692014AF373C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A0E9AC-38F3-4C58-A1F5-692014AF373C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -59,6 +67,8 @@ Global
 		{D90BF6D1-8F3F-4D77-9E2E-0380AA5C6A3C} = {B0B2239F-7D23-4F9A-8184-CF0761F55FBD}
 		{DED1E7BF-FAD7-4178-A248-4D2FE7FC32FF} = {A4367F9B-6495-42DA-B9DC-D37500B5423E}
 		{F27C07F6-90CF-4611-BC13-6144B6EF20D4} = {DED1E7BF-FAD7-4178-A248-4D2FE7FC32FF}
+		{0359EE4F-DF6D-4B5D-9170-F48C9223ADD7} = {A4367F9B-6495-42DA-B9DC-D37500B5423E}
+		{E7A0E9AC-38F3-4C58-A1F5-692014AF373C} = {0359EE4F-DF6D-4B5D-9170-F48C9223ADD7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5A8CB8AB-A67C-4769-87C0-D79F5987EAE4}
