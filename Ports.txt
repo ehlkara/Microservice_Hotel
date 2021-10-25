@@ -1,2 +1,3 @@
 Services
 -catalogAPI=> http://localhost:4011
+-photoStockApý => http://localhost:4012
