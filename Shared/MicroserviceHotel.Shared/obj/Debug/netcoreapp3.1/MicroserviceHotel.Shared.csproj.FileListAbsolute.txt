@@ -16,3 +16,13 @@ C:\Users\Ehlullah.karakurt\OneDrive - Doğuş Holding A.Ş\Documents\GitHub\Micr
 C:\Users\Ehlullah.karakurt\OneDrive - Doğuş Holding A.Ş\Documents\GitHub\Microservice_Hotel\Shared\MicroserviceHotel.Shared\obj\Debug\netcoreapp3.1\MicroserviceHotel.Shared.csproj.CoreCompileInputs.cache
 C:\Users\Ehlullah.karakurt\OneDrive - Doğuş Holding A.Ş\Documents\GitHub\Microservice_Hotel\Shared\MicroserviceHotel.Shared\obj\Debug\netcoreapp3.1\MicroserviceHotel.Shared.dll
 C:\Users\Ehlullah.karakurt\OneDrive - Doğuş Holding A.Ş\Documents\GitHub\Microservice_Hotel\Shared\MicroserviceHotel.Shared\obj\Debug\netcoreapp3.1\MicroserviceHotel.Shared.pdb
+C:\Users\Ehlullah.karakurt\Documents\GitHub\Microservice_Hotel\Shared\MicroserviceHotel.Shared\bin\Debug\netcoreapp3.1\MicroserviceHotel.Shared.deps.json
+C:\Users\Ehlullah.karakurt\Documents\GitHub\Microservice_Hotel\Shared\MicroserviceHotel.Shared\bin\Debug\netcoreapp3.1\MicroserviceHotel.Shared.dll
+C:\Users\Ehlullah.karakurt\Documents\GitHub\Microservice_Hotel\Shared\MicroserviceHotel.Shared\bin\Debug\netcoreapp3.1\MicroserviceHotel.Shared.pdb
+C:\Users\Ehlullah.karakurt\Documents\GitHub\Microservice_Hotel\Shared\MicroserviceHotel.Shared\obj\Debug\netcoreapp3.1\MicroserviceHotel.Shared.csproj.AssemblyReference.cache
+C:\Users\Ehlullah.karakurt\Documents\GitHub\Microservice_Hotel\Shared\MicroserviceHotel.Shared\obj\Debug\netcoreapp3.1\MicroserviceHotel.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ehlullah.karakurt\Documents\GitHub\Microservice_Hotel\Shared\MicroserviceHotel.Shared\obj\Debug\netcoreapp3.1\MicroserviceHotel.Shared.AssemblyInfoInputs.cache
+C:\Users\Ehlullah.karakurt\Documents\GitHub\Microservice_Hotel\Shared\MicroserviceHotel.Shared\obj\Debug\netcoreapp3.1\MicroserviceHotel.Shared.AssemblyInfo.cs
+C:\Users\Ehlullah.karakurt\Documents\GitHub\Microservice_Hotel\Shared\MicroserviceHotel.Shared\obj\Debug\netcoreapp3.1\MicroserviceHotel.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Ehlullah.karakurt\Documents\GitHub\Microservice_Hotel\Shared\MicroserviceHotel.Shared\obj\Debug\netcoreapp3.1\MicroserviceHotel.Shared.dll
+C:\Users\Ehlullah.karakurt\Documents\GitHub\Microservice_Hotel\Shared\MicroserviceHotel.Shared\obj\Debug\netcoreapp3.1\MicroserviceHotel.Shared.pdb
