@@ -3,5 +3,3 @@ Services
 -photoStockAPI => http://localhost:4012
 -basketAPI => http://localhost:4013
 -discountAPI => http://localhost:4014
-
-Controllerdan devam et

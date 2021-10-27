@@ -16,6 +16,7 @@ namespace MicroserviceHotel.IdentityServer
             new ApiResource("resource_catalog"){ Scopes={ "catalog_fullpermission" } },
             new ApiResource("photo_stock_catalog"){ Scopes={ "photo_stock_fullpermission" } },
             new ApiResource("resource_basket"){Scopes={"basket_fullpermission"}},
+            new ApiResource("resource_discount"){Scopes={"discount_fullpermission"}},
             new ApiResource(IdentityServerConstants.LocalApi.ScopeName)
         };
 
@@ -34,6 +35,7 @@ namespace MicroserviceHotel.IdentityServer
                 new ApiScope("catalog_fullpermission","Catalog API için full erişim"),
                 new ApiScope("photo_stock_fullpermission","Photo Stock API için full erişim"),
                 new ApiScope("basket_fullpermission","Basket API için full erişim"),
+                new ApiScope("discount_fullpermission","Discount API için full erişim"),
                 new ApiScope(IdentityServerConstants.LocalApi.ScopeName)
             };
 
@@ -56,7 +58,7 @@ namespace MicroserviceHotel.IdentityServer
                     AllowOfflineAccess= true,
                     ClientSecrets= { new Secret("secret".Sha256())},
                     AllowedGrantTypes= GrantTypes.ResourceOwnerPassword,
-                    AllowedScopes= { "basket_fullpermission",
+                    AllowedScopes= { "basket_fullpermission", "discount_fullpermission",
                         IdentityServerConstants.StandardScopes.Email, IdentityServerConstants.StandardScopes.OpenId,
                         IdentityServerConstants.StandardScopes.Profile, IdentityServerConstants.StandardScopes.OfflineAccess,
                         IdentityServerConstants.LocalApi.ScopeName,"roles"
